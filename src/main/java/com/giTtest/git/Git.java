@@ -6,4 +6,7 @@ package com.giTtest.git;
  * @author Kang Liu
  */
 public class Git {
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
